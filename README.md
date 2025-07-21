@@ -1,7 +1,7 @@
 # listgen v1.0 (XML Gamelist Generator)
 
 WHAT IS IT?
-Basically my own BASH script to help you delete words in ROM filenames that stop you from scrapping for cover art, videos, etc. Great to correct ROMS for emulation environments like retrodeck or emudeck.
+Another of my own BASH scripts to help you generate XML Gamelists from your own ROM collections. Great for emulation environments like retrodeck or emudeck.
 
 INSTRUCTIONS:
 1. Download the BASH script and drop it in your Linux machine.
