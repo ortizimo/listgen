@@ -1,5 +1,5 @@
 #!/bin/bash
-# author: Sal
+# author: ortizimo
 # date: 20250720-1530
 # desc: script to generate a gamelist in XML format
 
